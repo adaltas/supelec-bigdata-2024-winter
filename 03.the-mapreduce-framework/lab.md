@@ -20,10 +20,10 @@ uncommonly      6
 uncompromised   1
 ```
 
-1. Clone the repo [ dsti-bigdata-2023-spring
-](https://github.com/adaltas/dsti-bigdata-2023-spring.git) in your home on the edge node:
+1. Clone the repo [ supelec-bigdata-2024-winter
+](https://github.com/adaltas/supelec-bigdata-2024-winter/) in your home on the edge node:
    ```bash
-   git clone https://github.com/adaltas/dsti-bigdata-2023-spring.git
+   git clone https://github.com/adaltas/supelec-bigdata-2024-winter.git
    ```
 2. Go to the `03.the-mapreduce-framework/lab-resources/code` directory:
    ```bash
